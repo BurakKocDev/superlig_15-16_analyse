@@ -1,0 +1,102 @@
+english:
+Süper Lig 2015-2016 Season Analysis: Key Findings
+1. Goal Statistics
+Total Goals Scored:
+
+The teams with the most goals scored were Fenerbahçe (64 goals) and Beşiktaş (62 goals).
+The teams with the fewest goals scored were Mersin İdman Yurdu (22 goals) and Eskişehirspor (25 goals).
+Total Goals Conceded:
+
+The teams that conceded the most goals were Eskişehirspor (68 goals) and Çaykur Rizespor (63 goals).
+The teams that conceded the fewest goals were Fenerbahçe (28 goals) and Beşiktaş (33 goals).
+2. Team Performance
+Home Performance:
+
+Fenerbahçe and Beşiktaş were the teams with the most home victories.
+The least successful home teams were Mersin İdman Yurdu and Eskişehirspor.
+Away Performance:
+
+Beşiktaş and Fenerbahçe were also the most successful away teams.
+The least successful away teams were Mersin İdman Yurdu and Eskişehirspor.
+Overall Performance:
+
+Beşiktaş achieved the most wins overall (24).
+Fenerbahçe also performed strongly with a total of 23 wins.
+The teams with the fewest wins were Mersin İdman Yurdu and Eskişehirspor.
+3. Weekly Match Results
+The week with the most goals scored was week 11, with a total of 33 goals.
+The week with the fewest goals scored was week 2, with a total of 16 goals.
+4. Weekly Team Rankings
+Fenerbahçe and Beşiktaş consistently ranked at the top throughout the season.
+Mersin İdman Yurdu and Eskişehirspor consistently ranked at the bottom.
+5. Average Goals per Match
+The average number of goals per match throughout the season was 2.76, indicating a generally high-scoring league.
+General Evaluation
+Successful Teams:
+
+Fenerbahçe and Beşiktaş were among the most successful teams in terms of both goals scored and goals conceded.
+These two teams consistently performed well both at home and away, dominating the season.
+Weaker Teams:
+
+Mersin İdman Yurdu and Eskişehirspor were the weakest teams in terms of both goals scored and goals conceded.
+These two teams struggled throughout the season, showing inconsistent performance.
+Average Goals per Match:
+
+An average of 2.76 goals per match indicates that the Süper Lig provided exciting and high-scoring matches for the fans.
+These analyses provide valuable insights into the dynamics of the Süper Lig 2015-2016 season and help evaluate team performances comprehensively.
+
+
+
+
+
+
+
+
+
+
+turkish:
+Süper Lig 2015-2016 Sezonu Analizinden Çıkarılan Sonuçlar
+1. Gol İstatistikleri
+Toplam Atılan Goller:
+
+En çok gol atan takımlar Fenerbahçe (64 gol) ve Beşiktaş (62 gol) oldu.
+En az gol atan takımlar ise Mersin İdman Yurdu (22 gol) ve Eskişehirspor (25 gol) oldu.
+Toplam Yenen Goller:
+
+En fazla gol yiyen takımlar Eskişehirspor (68 gol) ve Çaykur Rizespor (63 gol) oldu.
+En az gol yiyen takımlar ise Fenerbahçe (28 gol) ve Beşiktaş (33 gol) oldu.
+2. Takım Performansları
+Ev Sahibi Performansı:
+
+Fenerbahçe ve Beşiktaş, evlerinde en fazla galibiyet alan takımlar oldu.
+Ev sahibi olarak en az başarılı olan takımlar ise Mersin İdman Yurdu ve Eskişehirspor oldu.
+Deplasman Performansı:
+
+Beşiktaş ve Fenerbahçe, deplasmanda da en başarılı takımlar oldu.
+Deplasmanda en az başarılı olan takımlar ise Mersin İdman Yurdu ve Eskişehirspor oldu.
+Genel Performans:
+
+Beşiktaş, genel performansta en çok galibiyet (24) alan takım oldu.
+Fenerbahçe de yüksek bir performans sergileyerek toplamda 23 galibiyet elde etti.
+En az galibiyet alan takımlar Mersin İdman Yurdu ve Eskişehirspor oldu.
+3. Haftalık Maç Sonuçları
+Haftalık maçlarda en fazla gol atılan hafta, toplam 33 gol ile 11. hafta oldu.
+En az gol atılan hafta ise toplam 16 gol ile 2. hafta oldu.
+4. Haftalık Takım Sıralamaları
+Fenerbahçe ve Beşiktaş, sezon boyunca en üst sıralarda yer alan takımlar oldu.
+Mersin İdman Yurdu ve Eskişehirspor ise sezon boyunca en alt sıralarda yer aldı.
+5. Ortalama Maç Başına Gol Sayısı
+Sezon boyunca maç başına düşen ortalama gol sayısı 2.76 oldu. Bu, ligdeki maçların genel olarak ortalama gol açısından zengin geçtiğini göstermektedir.
+Genel Değerlendirme
+Başarılı Takımlar:
+
+Fenerbahçe ve Beşiktaş, hem attıkları gol sayısı hem de yedikleri gol sayısı açısından ligin en başarılı takımları arasında yer aldı.
+Bu iki takım, hem ev sahibi hem de deplasman maçlarında üstün performans sergileyerek sezona damgasını vurdu.
+Zayıf Takımlar:
+
+Mersin İdman Yurdu ve Eskişehirspor, hem attıkları gol sayısı hem de yedikleri gol sayısı bakımından ligin en zayıf takımları olarak göze çarptı.
+Bu iki takım, sezon boyunca istikrarsız bir performans sergileyerek ligde kalmakta zorlandı.
+Ortalama Gol Sayısı:
+
+Maç başına düşen 2.76 gol ortalaması, Süper Lig'in izleyicilere heyecan verici ve gollü maçlar sunduğunu göstermektedir.
+Bu analizler, Süper Lig 2015-2016 sezonunun genel dinamiklerini anlamak ve takımların performansını değerlendirmek için önemli bilgiler sunmaktadır.
